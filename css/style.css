@@ -135,10 +135,12 @@ width: 1200px;
 .intro_video {
     left: 0px;
     bottom: 0;
+    width: 100%;
 }
 
 .intro_section {
     height: 100vh;
+    width: 100vw;
 }
 
 .intro_section h1 {
