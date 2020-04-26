@@ -159,7 +159,7 @@ const dotNav = (elem, easing) => {
 
 dotNav('section', 'easeInOutCubic');
 
- var vid = document.getElementById("intro_video").muted = true;
+ let vid = document.getElementById("intro_video").muted = true;
 
     function unMuteButton(){
 
